@@ -1,4 +1,4 @@
-# manage-amplify-backend-as-cdk
+# amplify-with-cdk
 
 
 ## Reference
